@@ -1,0 +1,32 @@
+/* .example-sidenav-fab-container {
+    width: 500px;
+    height: 300px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+  } */
+  
+  /* .example-sidenav-fab-container mat-sidenav {
+    max-width: 700px;
+  }
+  
+  .example-sidenav-fab-container .mat-sidenav-content,
+  .example-sidenav-fab-container mat-sidenav {
+    display: flex;
+    overflow: visible;
+  }
+  
+  .example-scrolling-content {
+    overflow: auto;
+    height: 100%;
+  }
+  
+  .example-fab.mat-mini-fab {
+    position: absolute;
+    right: 20px;
+    bottom: 10px;
+  } */
+  
+  .example-container {
+    width: 1000px;
+    height: 900px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+  }
